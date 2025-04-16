@@ -9,8 +9,4 @@ pip install torch-2.6-xxxx
 wget https://github.com/state-spaces/mamba/releases/download/v2.2.4/mamba_ssm-2.2.4+cu11torch2.6cxx11abiTRUE-cp39-cp39-linux_x86_64.whl
 pip install mamba_ssm-xxxx
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-pip install h5py
-pip install matplotlib
-pip install kornia
-pip install opencv-python
-pip install tensorboard
+pip install h5py matplotlib kornia opencv-python tensorboard
