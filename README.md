@@ -8,5 +8,7 @@ wget https://download.pytorch.org/whl/cu118/torch-2.6.0%2Bcu118-cp39-cp39-linux_
 pip install torch-2.6-xxxx
 wget https://github.com/state-spaces/mamba/releases/download/v2.2.4/mamba_ssm-2.2.4+cu11torch2.6cxx11abiTRUE-cp39-cp39-linux_x86_64.whl
 pip install mamba_ssm-xxxx
+wget https://github.com/Dao-AILab/causal-conv1d/releases/download/v1.5.0.post8/causal_conv1d-1.5.0.post8+cu11torch2.6cxx11abiFALSE-cp39-cp39-linux_x86_64.whl
+pip install ca-xxx
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 pip install h5py matplotlib kornia opencv-python tensorboard
